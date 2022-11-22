@@ -23,9 +23,9 @@
         "display4Font": "Finlandica",
         "display4Size": 1.7,
         "isRoundedButtons": false,
-        "isGhostButtonBorder": true,
+        "isGhostButtonBorder": false,
         "underlinedLinks": false,
-        "isAnimatedOnScroll": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": true
       },
       "titlePreset": "SEO Copywriter Portfolio",
